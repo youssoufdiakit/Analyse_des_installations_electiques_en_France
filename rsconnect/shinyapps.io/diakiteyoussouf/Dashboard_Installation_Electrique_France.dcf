@@ -1,0 +1,12 @@
+name: Dashboard_Installation_Electrique_France
+title: Dashboard_Installation_Electrique_France
+username: diakiteyoussouf
+account: diakiteyoussouf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14196893
+bundleId: 9915648
+url: https://diakiteyoussouf.shinyapps.io/Dashboard_Installation_Electrique_France/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
